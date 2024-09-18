@@ -90,9 +90,9 @@ kind: ClusterRole
 metadata:
   name: jenkins-admin
 rules:
-  - apiGroups: [""]
-    resources: ["*"]
-    verbs: ["*"]
+  - apiGroups: 
+    resources: 
+    verbs: 
 ---
 apiVersion: v1
 kind: ServiceAccount
