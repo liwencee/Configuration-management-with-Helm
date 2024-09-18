@@ -1,2 +1,2 @@
-# Configuration-management-with-Hemt
+# Configuration-management-with-Helm
 A write up on research
