@@ -55,3 +55,7 @@ verify the helm chart, run helm lint .
 
 run  helm install my-release alex.li/tree    to check the helm tree
 
+create a cluster for helm
+run minikube start if tou using minikube
+better still run create a kubernete eks on aws
+then install kubectl in to your instances
